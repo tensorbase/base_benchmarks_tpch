@@ -1,4 +1,4 @@
-## Benchmarks
+## Quich Benchmarks
 
 A simple benchmark on real-world NYC Taxi dataset has been exercised:
 
